@@ -33,14 +33,9 @@ This dataset can be used for:
 ## 🗂️ File Structure
 
 - All data is stored in a single file  
-- File format: *(update this section if needed, e.g. CSV / JSON / Excel)*
+- File format:  CSV 
 
 ---
-
-## ⚠️ Notes
-
-- The data is based on real information but may include estimations.
-- This dataset is intended for educational, research, and non-commercial use unless stated otherwise.
 
 ---
 
