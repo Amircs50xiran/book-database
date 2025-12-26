@@ -33,12 +33,14 @@ This dataset can be used for:
 ## 🗂️ File Structure
 
 - All data is stored in a single file  
-- File format:  CSV 
+- File format: CSV
 
 ---
 
+## ⚠️ Notes
+
+- The data is based on real information but may include estimations.
+- This dataset is intended for educational, research, and non-commercial use unless stated otherwise.
+
 ---
 
-## 📄 License
-
-Please check the license file or contact the repository owner for usage permissions.
